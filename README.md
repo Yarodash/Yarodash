@@ -9,3 +9,5 @@
 + https://github.com/Yarodash/BrailleImages
 + https://github.com/Yarodash/MemeGenerationTelegramBot
 + https://github.com/Yarodash/AdvanceInterpreter
+
+<code>💡 [Global/JS-specific Skills](https://github.com/Yarodash/Profile/blob/main/SKILLS.md)</code>

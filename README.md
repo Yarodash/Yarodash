@@ -2,10 +2,12 @@
 
 ### Yaroslav Lukyanets here
 
+![Codewars](https://www.codewars.com/users/Yarodash/badges/large)
+
 ### Checkout my coolest repositories:
-+ https://github.com/Yarodash/RubiksCube
-+ https://github.com/Yarodash/ChessPygame
-+ https://github.com/Yarodash/Scratch
-+ https://github.com/Yarodash/BrailleImages
-+ https://github.com/Yarodash/MemeGenerationTelegramBot
-+ https://github.com/Yarodash/AdvanceInterpreter
++ [RubiksCube](https://github.com/Yarodash/RubiksCube)
++ [ChessPygame](https://github.com/Yarodash/ChessPygame)
++ [Scratch](https://github.com/Yarodash/Scratch)
++ [BrailleImages](https://github.com/Yarodash/BrailleImages)
++ [MemeGenerationTelegramBot](https://github.com/Yarodash/MemeGenerationTelegramBot)
++ [AdvanceInterpreter](https://github.com/Yarodash/AdvanceInterpreter)
